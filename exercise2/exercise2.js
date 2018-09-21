@@ -15,6 +15,21 @@ function changeSlideshow(direction){
         }
     }
 
+    if(imgCounter === 0){
+        display.src = "";
+    }
+    else if (imgCounter === 1){
+        display.src = "";
+    }
+    else if (imgCounter === 2){
+        display.src = "";
+    }
+    else if (imgCounter === 3){
+        display.src = "";
+    }
+    else if (imgCounter === 4){
+        display.src = "";
+    }
 
 
 }
