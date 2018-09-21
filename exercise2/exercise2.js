@@ -16,19 +16,19 @@ function changeSlideshow(direction){
     }
 
     if(imgCounter === 0){
-        display.src = "";
+        display.src = "/pictures_of_thomas/THOMAS.jpg";
     }
     else if (imgCounter === 1){
-        display.src = "";
+        display.src =  "/pictures_of_thomas/THOMAS_butblackandwhite.jpg";
     }
     else if (imgCounter === 2){
-        display.src = "";
+        display.src = "/pictures_of_thomas/THOMAS_buthesawizard.jpg";;
     }
     else if (imgCounter === 3){
-        display.src = "";
+        display.src = "/pictures_of_thomas/THOMAS_butspooky";
     }
     else if (imgCounter === 4){
-        display.src = "";
+        display.src = "/pictures_of_thomas/THOMAS_butwithabluemustache.jpg";
     }
 
 
