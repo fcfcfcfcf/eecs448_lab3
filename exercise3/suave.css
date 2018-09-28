@@ -1,0 +1,22 @@
+body
+{
+    text-align: center;
+    color: whitesmoke;
+    font-family: Arial;
+    background-image: url(nightsky.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+a{
+    color: hotpink;
+}
+img:hover{
+    zoom: 110%;
+}
+p.bold 
+{
+    font-size: 36pt;
+    font-weight: bold;
+    color: hotpink;
+}
